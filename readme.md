@@ -10,7 +10,7 @@ A Wordpress development starter using composer
  - You can find plugin paths and versions on http://wpackagist.org/ however as a general rule, it uses the same naming convention as what is on Wordpress and we should always use "dev-trunk" to get latest version.
 3. Run the following commands in the project folder:
 ```bash
-compass install
+composer install
 npm install
 grunt
 ```
