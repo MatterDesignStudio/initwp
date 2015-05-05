@@ -40,7 +40,14 @@
         "wptheme/sass-skeleton": "1.1",
         "wpackagist-plugin/woocommerce": "dev-trunk",
         "wpackagist-plugin/advanced-custom-fields": "dev-trunk",
-        "wpackagist-plugin/contact-form-7": "dev-trunk"
+        "wpackagist-plugin/contact-form-7": "dev-trunk",
+        "wpackagist-plugin/wordpress-seo": "dev-trunk",
+        "wpackagist-plugin/wordfence": "dev-trunk",
+        "wpackagist-plugin/w3-total-cache": "dev-trunk",
+        "wpackagist-plugin/simple-301-redirects": "dev-trunk",
+        "wpackagist-plugin/regenerate-thumbnails": "dev-trunk",
+        "wpackagist-plugin/rewrite-rules-inspector": "dev-trunk",
+        "wpackagist-plugin/captcha-on-login": "dev-trunk"
     },
     "extra": {
         "webroot-dir": "wp",
